@@ -103,7 +103,7 @@
  * |  ESC  |   Q   |   W   |   E   |   R   |   T   |-----------------------------------|   Z   |   U   |   I   |   O   |   P   |   Ü   |
  * |   ß   |   A   |   S   |   D   |   F   |   G   |-----------------------------------|   H   |   J   |   K   |   L   |   Ö   |   Ä   |
  * | CTRL  |   Y   |   X   |   C   |   V   |   B   | none  |-------------------|  none |   N   |   M   |   ,   |   .   |   -   | ENTER |
- *                                 |  GUI  | BSPC  |SK SHFT|  Nav  |---| Sym - | SPACE |  none |  none |
+ *                                 |  GUI  | BSPC  |SK SHFT|  Nav  |---| Sym - |  none |  none |  none |
  *  
  */
 
